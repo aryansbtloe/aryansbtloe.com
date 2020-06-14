@@ -1,8 +1,7 @@
-<!DOCTYPE html>
 <html>
 <body>
-<h1>ARYANSBTLOE</h1>
-<h3>aryans beyond the limit of everything</h3>
+<h1>A R Y A N S B T L O E</h1>
+<h3>aryans - beyond the limit of everything</h3>
 <h1>Contact Us</h1>
 <h3>Send us a message. We’ll get back to you as soon as possible.</h3>
 <h4>Phone/Whatsapp  : +91 8287757210</h4>
