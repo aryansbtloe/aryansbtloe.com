@@ -2,12 +2,32 @@
 <body>
 <h1>A R Y A N S B T L O E</h1>
 <h3>aryans - beyond the limit of everything</h3>
-<h1>Contact Us</h1>
+	Privacy Policy | Contact Us | Marketing | Hukamnama
+	
+<div>
+<h1>Support / Contact Us</h1>
 <h2>Send us a message. We’ll get back to you as soon as possible.</h2>
 <h4>Phone/Whatsapp  : +91 8287757210</h4>
 <h4>Email           : alok.singh.confident@gmail.com</h4>
-<h4>LinkedIn        : https://in.linkedin.com/in/256261</h4>
-<h4>Skype           : alok.singh.confident</h4>
+</div>
+	
+<div>
+<h1>Marketing</h1>
+<h2>Give us a Call/Message</h2>
+<h4>Phone/Whatsapp  : +91 8287757210</h4>
+<h4>Email           : alok.singh.confident@gmail.com</h4>
+</div>
+
+<div>
+<h1>Privacy Policy</h1>
+<h3>Find Product Privacy Policies below under "Our Products" section</h3>
+</div>
+
+<div>
+<h1>Copyright</h1>
+<h3>2020 Alok Singh</h3>
+</div>
+
 <h1>Our Products</h1>  
   <ul class="page-itemlist">
 <li class="page-item"><div class="pagethumb" data-toggle="tooltip" data-placement="top" title="" data-original-title="Virtual Mic"><a href="https://apps.apple.com/in/app/virtual-mic/id1514011963" sl-processed="1"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/95/3d/6d/953d6d78-8650-6fee-f734-1977f07a937a/source/150x150bb.jpg" style="display: inline;"></a></div>
