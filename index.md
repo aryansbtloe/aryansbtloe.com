@@ -45,6 +45,8 @@ Features you’ll love:
 
 How to make best, safe use of this microphone ?
 1: Reduce phone's v...</span>
+<a href="https://aryansbtloe.github.io/com.aryansbtloe.privacy.microphone.ios/">Privacy Policy</a>
+
 		</div>
 	</li><li class="page-item"><div class="pagethumb" data-toggle="tooltip" data-placement="top" title="" data-original-title="Converter : Units"><a href="https://apps.apple.com/in/app/converter-units/id1515811220" sl-processed="1"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/4e/09/9c/4e099c1b-59d5-d8f3-aa24-8f8ecef79a9f/source/150x150bb.jpg" style="display: inline;"></a></div>
 	<div class="info"><h3><a href="https://apps.apple.com/in/app/converter-units/id1515811220" sl-processed="1">Converter : Units</a></h3>
