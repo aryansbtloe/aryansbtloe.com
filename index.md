@@ -2,7 +2,6 @@
 <body>
 <h1>A R Y A N S B T L O E</h1>
 <h3>aryans - beyond the limit of everything</h3>
-	Privacy Policy | Contact Us | Marketing | Hukamnama
 	
 <div>
 <h1>Support / Contact Us</h1>
