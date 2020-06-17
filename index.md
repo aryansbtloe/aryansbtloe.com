@@ -7,7 +7,8 @@
 <h1>Support / Contact Us</h1>
 <h2>Send us a message. We’ll get back to you as soon as possible.</h2>
 <h4>Phone/Whatsapp  : +91 8287757210</h4>
-<h4>Email           : alok.singh.confident@gmail.com</h4>
+<h4>Email           : aryansbtloe.business@gmail.com</h4>
+<h4>Facebook        : https://www.facebook.com/Aryansbtloe-106066591152881</h4>
 </div>
 	
 <div>
