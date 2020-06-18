@@ -148,14 +148,9 @@ This application is being developed for research/educational purposes only , we 
 	<br><br><br></li><li class="page-item"><div class="pagethumb" data-toggle="tooltip" data-placement="top" title="" data-original-title="Tuner : Guitar"><a href="https://apps.apple.com/us/app/tuner-guitar/id1518293355?app=itunes&ign-mpt=uo%3D4" sl-processed="1"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/88/fb/99/88fb9975-3c4d-179e-2063-93bc223cdf9e/source/200x200bb.jpg" style="display: inline;"></a></div>
 	<div class="info"><h3><a href="https://apps.apple.com/us/app/tuner-guitar/id1518293355?app=itunes&ign-mpt=uo%3D4" sl-processed="1">Tuner : Guitar</a><br><h4><a href="https://aryansbtloe.github.io/com.aryansbtloe.privacy.guitar-tuner.ios/">Privacy Policy</a></h4></h3>
 		<span class="summary">Easy-to-use, super-accurate tuner app for guitar, bass
-
 FOR ALL MUSICIANS, FROM BEGINNERS TO PROS
 • Easy-to-use
 • Auto-tune, manual tuning modes
-</span>
-		</div>
-
-	</li></ul>
-  
+</span></div>
 </body>
 </html>
