@@ -28,6 +28,8 @@
 <h1>Copyright</h1>
 <h3>2020 Alok Singh</h3>
 </div>
+	
+	<p>Open a PDF file <a href="/uploads/media/default/0001/01/540cb75550adf33f281f29132dddd14fded85bfc.pdf">example</a>.</p>
 
 <h1>Our Products</h1>  
   <ul class="page-itemlist">
@@ -154,6 +156,9 @@ FOR ALL MUSICIANS, FROM BEGINNERS TO PROS
 • Easy-to-use
 
 • Auto-tune, manual tuning modes
+			
+<iframe src="https://docs.google.com/gview?url=https://drive.google.com/file/d/1zF2C-Devpz_O5-GN6ODllCKpiP4rOB7q/view?usp=sharing&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
+
 
 </span></div>
 </body>
