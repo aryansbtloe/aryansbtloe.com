@@ -1,7 +1,6 @@
 <html>
 <body>
 <h1>A R Y A N S B T L O E</h1>
-<h3>aryans - beyond the limit of everything</h3>
 	
 <div>
 <h1>Support / Contact Us</h1>
@@ -26,11 +25,9 @@
 
 <div>
 <h1>Copyright</h1>
-<h3>2020 Alok Singh</h3>
+<h3>2023 Alok Singh</h3>
 </div>
 	
-	<p>Open a PDF file <a href="/uploads/media/default/0001/01/540cb75550adf33f281f29132dddd14fded85bfc.pdf">example</a>.</p>
-
 <h1>Our Products</h1>  
   <ul class="page-itemlist">
 <li class="page-item"><div class="pagethumb" data-toggle="tooltip" data-placement="top" title="" data-original-title="Virtual Mic"><a href="https://apps.apple.com/in/app/virtual-mic/id1514011963" sl-processed="1"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/95/3d/6d/953d6d78-8650-6fee-f734-1977f07a937a/source/150x150bb.jpg" style="display: inline;"></a></div>
@@ -135,18 +132,6 @@ Reciting these elegant words written in Glory of ...</span>
 		<span class="summary">Put away your pencil and paper - now you can play Tic Tac Toe on your iPhone or iPad for free.
 
 Tic Tac Toe supports one player and two player gameplay, so you can play against another human or against yourself....</span>
-		</div>
-	<br><br><br></li><li class="page-item"><div class="pagethumb" data-toggle="tooltip" data-placement="top" title="" data-original-title="Apps Research"><a href="https://apps.apple.com/in/app/apps-research/id1516187357" sl-processed="1"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/24/db/47/24db470e-a94b-e8f9-e7dd-4978961141fb/source/150x150bb.jpg" style="display: inline;"></a></div>
-	<div class="info"><h3><a href="https://apps.apple.com/in/app/apps-research/id1516187357" sl-processed="1">Apps Research</a><br><h4><a href="https://aryansbtloe.github.io/com.aryansbtloe.privacy.app-research.ios/">Privacy Policy</a></h4></h3>
-		<span class="summary">Want to research what apps are from your country?
-
-Identify the country of origin of application(s) that you are using.
-
-Detecting the country of origin is based on the market research but we do not guarantee for any correct/wrong information, so users should not act basis of the data shown.
-
-This application is being developed for research/educational purposes only , we do not promote or demote any of the application(s)....</span>
-		</div>
-				</div>
 	<br><br><br></li><li class="page-item"><div class="pagethumb" data-toggle="tooltip" data-placement="top" title="" data-original-title="Tuner : Guitar"><a href="https://apps.apple.com/us/app/tuner-guitar/id1518293355?app=itunes&ign-mpt=uo%3D4" sl-processed="1"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/88/fb/99/88fb9975-3c4d-179e-2063-93bc223cdf9e/source/200x200bb.jpg" style="display: inline;"></a></div>
 	<div class="info"><h3><a href="https://apps.apple.com/us/app/tuner-guitar/id1518293355?app=itunes&ign-mpt=uo%3D4" sl-processed="1">Tuner : Guitar</a><br><h4><a href="https://aryansbtloe.github.io/com.aryansbtloe.privacy.guitar-tuner.ios/">Privacy Policy</a></h4></h3>
 		<span class="summary">Easy-to-use, super-accurate tuner app for guitar, bass
@@ -156,8 +141,6 @@ FOR ALL MUSICIANS, FROM BEGINNERS TO PROS
 • Easy-to-use
 
 • Auto-tune, manual tuning modes
-			
-<iframe src="https://docs.google.com/gview?url=https://drive.google.com/file/d/1zF2C-Devpz_O5-GN6ODllCKpiP4rOB7q/view?usp=sharing&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
 
 
 </span></div>
